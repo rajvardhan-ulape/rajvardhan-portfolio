@@ -259,7 +259,7 @@ const Portfolio = () => {
     {/* Profile Image */}
     <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.5rem' }}>
       <img
-        src="https://drive.google.com/file/d/13FwSn76_xiuGL4pdYfFnyxHQb7P9QOoI/view?usp=drive_link" // place your photo inside public/profile.jpg
+        src="/profile.jpg" // place your photo inside public/profile.jpg
         alt="Rajvardhan Ulape"
         style={{
           width: '320px',
