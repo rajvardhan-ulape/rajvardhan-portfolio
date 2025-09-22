@@ -259,7 +259,7 @@ const Portfolio = () => {
     {/* Profile Image */}
     <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.5rem' }}>
       <img
-        src="/profile.jpg" // place your photo inside public/profile.jpg
+        src="/pro.jpg" // place your photo inside public/profile.jpg
         alt="Rajvardhan Ulape"
         style={{
           width: '320px',
