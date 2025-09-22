@@ -259,7 +259,7 @@ const Portfolio = () => {
     {/* Profile Image */}
     <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.5rem' }}>
       <img
-        src="/pro.jpg" // place your photo inside public/profile.jpg
+        src="/pro.jpg"
         alt="Rajvardhan Ulape"
         style={{
           width: '320px',
@@ -328,7 +328,7 @@ const Portfolio = () => {
       <a href="https://github.com/rajvardhan-ulape" style={styles.socialLink}>
         <Github size={24} />
       </a>
-      <a href="https://linkedin.com/in/rajvardhan-ulape" style={styles.socialLink}>
+      <a href="https://www.linkedin.com/in/rajvardhan-ulape-2ab538294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style={styles.socialLink}>
         <Linkedin size={24} />
       </a>
       <a href="mailto:rajvardhanulape2151@gmail.com" style={styles.socialLink}>
@@ -495,7 +495,7 @@ const Portfolio = () => {
           
           <div style={{display: 'flex', justifyContent: 'center', gap: '2rem', flexWrap: 'wrap'}}>
             <a
-              href="mailto:rajvardhan.ulape@email.com"
+              href="mailto:rajvardhanulape2151@gmail.com"
               style={{...styles.button, textDecoration: 'none'}}
               onMouseEnter={(e) => e.target.style.backgroundColor = '#2563eb'}
               onMouseLeave={(e) => e.target.style.backgroundColor = '#3b82f6'}
@@ -505,7 +505,7 @@ const Portfolio = () => {
             </a>
             
             <a
-              href="https://linkedin.com/in/rajvardhan-ulape"
+              href="https://www.linkedin.com/in/rajvardhan-ulape-2ab538294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
               style={{...styles.button, textDecoration: 'none'}}
               onMouseEnter={(e) => e.target.style.backgroundColor = '#2563eb'}
               onMouseLeave={(e) => e.target.style.backgroundColor = '#3b82f6'}
